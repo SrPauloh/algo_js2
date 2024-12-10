@@ -1,0 +1,17 @@
+Início  
+    Ler número_de_alunos  
+    i = 0  
+    Enquanto i < número_de_alunos faça  
+        Se i == 0 então  
+            Escrever "zero" e i  
+        Senão se i % 2 == 0 então  
+            Escrever "par" e i  
+        Senão  
+            Escrever "ímpar" e i  
+        Fim Se  
+        i = i + 1  
+    Fim Enquanto  
+Fim
+
+
+
